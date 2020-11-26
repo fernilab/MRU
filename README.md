@@ -1,2 +1,2 @@
-# shockhawk
-Shock cord holder for TNVC mohawk
+# MRU
+(TNVC) Mohawk Retention Unit
